@@ -3,11 +3,11 @@
 > 感谢
 # start
 ## make sure you have pip
-### git clone https://github.com/ZWkang/simple-wechat-robot
-### pip install wxpy 
-### python robot.py
+> ### git clone https://github.com/ZWkang/simple-wechat-robot
+> ### pip install wxpy 
+> ### python robot.py
 # LICENSE
 ### MIT
-···
-if it work plz give me a star
-···
+
+> ## if it work plz give me a star
+---
